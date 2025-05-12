@@ -75,12 +75,15 @@ narwhals==1.38.2
 numpy==2.2.5
     # via agribot
     # via opencv-python
+    # via opencv-python-headless
     # via pandas
     # via pydeck
     # via streamlit
 openai==1.78.1
     # via agribot
 opencv-python==4.11.0.86
+    # via agribot
+opencv-python-headless==4.11.0.86
     # via agribot
 packaging==24.2
     # via altair
