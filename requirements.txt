@@ -1,0 +1,5 @@
+roboflow
+openai
+inference
+supervision
+opencv-python
